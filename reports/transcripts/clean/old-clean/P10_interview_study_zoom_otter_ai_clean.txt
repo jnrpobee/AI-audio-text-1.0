@@ -1,0 +1,211 @@
+Interviewer: Thank you so much for your time in participating in this study. Our objective is to understand technology used while day hiking. During this interview, we will focus on your experiences while hiking, the devices you use, and why you use those devices. To start, can you tell us about your hiking experience? How often do you normally hike, which places do you hike, and why do you hike?
+
+Participant: I hike pretty frequently. Over the summer, I would hike at least once a week, sometimes several times a week. During the school year, it's a bit less, but still every few weeks. I like hiking with friends; I have a good friend who often finds hikes for us to go on. I love hiking because it's a good way to get away from school and work, connect with nature, and it's really good for my mental health.
+
+Interviewer: How do you define hiking?
+
+Participant: There's a broad spectrum, but typically, if I say I'm going on a hike, it's usually at least three miles round trip with some incline, even if not steep. Less than that feels more like a walk. If it's really steep, I also consider that a hike.
+
+Interviewer: In Provo, there are neighborhood trails and mountain trails. Would you classify trail walking as part of hiking?
+
+Participant: Probably not, unless I'm in the mountains and separated from neighborhoods. For example, the Bonneville Shoreline Trail feels more like a trail walk than a hike to me.
+
+Interviewer: How do you prepare for your hikes?
+
+Participant: It depends on the length and difficulty. I always bring lots of water and food, especially salty snacks for electrolyte replenishment if I sweat a lot. I try to get a good night's sleep before harder hikes. Water is the most important thing.
+
+Interviewer: What devices do you usually carry when hiking?
+
+Participant: Typically, just my phone to take pictures or check the trail to make sure I'm going the right way. I don't usually bring a smartwatch or anything else.
+
+Interviewer: What apps do you use when hiking?
+
+Participant: Mostly AllTrails for navigation and the camera app for pictures. Sometimes I check the Weather app if it looks like rain, but that's about it.
+
+Interviewer: Why do you prefer to use just those apps and not more?
+
+Participant: When hiking, I like to disconnect as much as possible. I usually don't text or use social media because I want to be more in nature and not looking at my phone.
+
+Interviewer: What time of day do you prefer to hike?
+
+Participant: I prefer morning hikes around 8 or 9 a.m. It's usually not too hot, the sun isn't directly overhead, and it feels peaceful. I don't like hiking in the evening because it can get dark and dangerous.
+
+Interviewer: Do you feel hiking at night is unsafe alone or in a group?
+
+Participant: Definitely unsafe alone at night; I almost never do it. In a group, it's better but still risky because of wild animals or tripping in the dark. Daylight hiking is safer.
+
+Interviewer: Do you take anything to protect yourself when hiking late?
+
+Participant: Usually not. I try to avoid being in that situation.
+
+Interviewer: Do you prefer hiking alone or in a group?
+
+Participant: For short hikes, I like hiking alone. For longer hikes over three miles, I prefer a group.
+
+Interviewer: How do you classify a short hike?
+
+Participant: Three to four miles is pretty short, depending on steepness.
+
+Interviewer: What are some trails you've hiked?
+
+Participant: This summer, I hiked a lot in Cottonwood Canyon, including Lake Blanche, Secret Lake, Sugarloaf Peak, Provo Peak, and in Alpine, Horse Sale Falls and Three Falls. I’ve done about 15 or 16 hikes this year, mostly in Utah.
+
+Interviewer: Do you hike in winter?
+
+Participant: I have, like in February to some hot springs, but I don't enjoy it much because I don't like the cold.
+
+Interviewer: What differences do you notice hiking in winter versus other seasons?
+
+Participant: Snow is the biggest factor. It makes hiking harder because shoes get wet and it can be slippery. The bright sun on snow can also affect visibility.
+
+Interviewer: What motivates you to hike?
+
+Participant: Several reasons: social, to be with friends; emotional, it helps me relax and feel better after a hard week; and physical, it's good exercise.
+
+Interviewer: Do you feel the emotional benefits more when hiking alone or with a group?
+
+Participant: Both have pros and cons. I’m more introverted, so I don’t mind short hikes alone, but it’s also nice to connect with friends on longer hikes.
+
+Interviewer: How does hiking with a group help you connect with nature?
+
+Participant: Even in a group, you can appreciate nature. Friends often point out things I might miss, like wildlife or pretty trees.
+
+Interviewer: How does noticing these things make you feel?
+
+Participant: It sometimes feels like I’m in another world, different from residential Utah. It makes me feel grateful and more appreciative, and I feel like I can see God’s hand in creation.
+
+Interviewer: How does being in nature affect you when you return to your community?
+
+Participant: It has a cleansing effect. After a good hike, I feel more prepared to enter the real world with more capacity and energy.
+
+Interviewer: You mentioned using your smartphone for navigation and pictures. Did you take any pictures during your hike?
+
+Participant: Yes, I took pictures and recorded some, probably that’s what was missing in the data.
+
+Interviewer: How does taking pictures help your hiking experience?
+
+Participant: It’s nice to look back and remember the hike and the beauty I saw. Especially with friends, I like capturing memories.
+
+Interviewer: Does looking back at pictures help you feel connected to nature?
+
+Participant: A little bit. It’s not the same as being there, but the memory helps me feel somewhat connected.
+
+Interviewer: You didn’t use your phone much besides navigation and a couple of pictures. Why?
+
+Participant: Like I said, I prefer to focus on my surroundings rather than my phone. I can use my phone anytime, but hiking is a time to disconnect.
+
+Interviewer: You checked the trail often. Was this because it was a new hike?
+
+Participant: Yes, it wasn’t well marked, so I had to check frequently to stay on the right trail.
+
+Interviewer: When you know the trail, do you check AllTrails less?
+
+Participant: Yes, usually my friend navigates or if I’ve been there before, I don’t check much.
+
+Interviewer: You hiked with a friend this time, right?
+
+Participant: Yes, but she hadn’t done this trail before, so I took the lead on navigation.
+
+Interviewer: How does looking around at your surroundings help you connect with nature?
+
+Participant: Especially this time of year, the fall colors are beautiful. Seeing something different from school and work helps me appreciate nature more.
+
+Interviewer: We looked at the trail you hiked. Was this a new place for you?
+
+Participant: Yes, it was new.
+
+Interviewer: Did you forget to start recording your trail on AllTrails?
+
+Participant: Yes, I forgot to press start when we began.
+
+Interviewer: Do you usually record your hikes?
+
+Participant: No, I mostly use AllTrails just for navigation.
+
+Interviewer: Would you consider using other devices while hiking?
+
+Participant: A smartwatch might be nice someday to track trails without pulling out my phone.
+
+Interviewer: Would you use it for time, mileage, or health stats?
+
+Participant: Mostly for time and mileage. Health stats are interesting but not a big focus for me since my phone tracks steps anyway.
+
+Interviewer: Did you get any notifications on your phone while hiking?
+
+Participant: No, I didn’t have service on the trail.
+
+Interviewer: How does hiking without service make you feel?
+
+Participant: I kind of like it, especially on shorter hikes where I don’t feel unsafe. If it was more secluded or I was alone, it might make me nervous.
+
+Interviewer: Do you usually keep notifications on when hiking?
+
+Participant: Yes, but often there’s no service anyway, so it’s like they’re off.
+
+Interviewer: Do you share pictures on social media?
+
+Participant: Very rarely. I don’t use social media much. Sometimes I share pictures with family or friends if they’re interested.
+
+Interviewer: Do you check the time when hiking?
+
+Participant: Yes, I check my watch occasionally.
+
+Interviewer: Is your watch a smartwatch?
+
+Participant: No, just a regular digital watch.
+
+Interviewer: Do you usually feel safe when hiking?
+
+Participant: Usually yes. Rarely do I feel unsafe, mostly if I’m alone late in the day.
+
+Interviewer: Have you ever been in an unsafe situation on a trail?
+
+Participant: I’ve felt unsafe a few times but nothing has happened.
+
+Interviewer: When you feel unsafe, do you contact someone?
+
+Participant: No, I just try to get out quickly.
+
+Interviewer: Do you share your location with anyone before hiking?
+
+Participant: Not usually. Sometimes my mom asks where I’m going, and I tell her. She also tracks me on Find My Friends.
+
+Interviewer: Did your mom ever express concern when you lost service?
+
+Participant: No, she hasn’t said anything. I don’t think she checks often.
+
+Interviewer: How did using the recording device influence your hiking experience?
+
+Participant: It was easy to use but a bit of a hassle to press every time I checked the trail or took pictures. It impacted my experience a little but not drastically.
+
+Interviewer: Did it make you use your phone less?
+
+Participant: No, I used my phone about as much as I normally would.
+
+Interviewer: How did recording the trail affect your engagement with nature?
+
+Participant: It detracted a little, but it was worth it to avoid getting lost and enjoy the hike.
+
+Interviewer: How did taking pictures affect your engagement with nature?
+
+Participant: It helped because I saw something beautiful and wanted to capture it to remember later.
+
+Interviewer: Do you feel any engagement or disengagement with time when hiking?
+
+Participant: Yes, sometimes I finish a hike and four hours have passed without feeling that long. There’s a disconnect from time.
+
+Interviewer: Do you think that’s good?
+
+Participant: Usually yes, especially if I plan ahead how long the hike will take.
+
+Interviewer: Do your hikes have a time bound?
+
+Participant: Yes, I check average times on apps and usually finish within that frame.
+
+Interviewer: Thank you for your time. You chose a Visa gift card for compensation. You can pick it up at the CS office on Monday.
+
+Participant: Great, thank you.
+
+Interviewer: The office is just across that door on this floor.
+
+Participant: Okay, thanks.

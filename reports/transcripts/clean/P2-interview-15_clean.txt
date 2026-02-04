@@ -1,0 +1,105 @@
+Interviewer: Our research focuses on technology use while hiking — what devices and apps people use and why. To start, can you tell me about your hiking experience and how you got involved?
+Participant: I grew up hiking with family, then in college friends and weekend hikes got me more into it; living in Provo with many nearby trails makes it easy to keep hiking.
+Interviewer: What benefits have you gained from hiking?
+Participant: It's my main way to get exercise since I don't play other sports, it's good for mental health — calming and resetting — and it's simply enjoyable and social.
+Interviewer: How does being in nature help your mental well-being?
+Participant: It calms me and helps me step back from daily worries; being outside reminds me there's a larger world beyond work or school.
+Interviewer: How long are your typical hikes and how often do you go?
+Participant: Usually four to eight hours; I try to go most weekends in summer — maybe 75% of weekends — which is about 15–20 hikes a year. In winter I rarely hike, maybe once or twice.
+Interviewer: How do winter hikes differ for you?
+Participant: We stick to established, packed trails and use traction devices on our shoes; we bundle up and choose safer routes.
+Interviewer: How do you track distance and route?
+Participant: My spouse usually starts a Strava activity that records distance and time.
+Interviewer: How do you prepare for hikes?
+Participant: We check drive time and road conditions, trail length and steepness, and the weather the day before. That determines water, food, and gear. We keep basic supplies like sunscreen and bug spray packed in our hiking bags.
+Interviewer: Besides exercise and mental wellness, why do you hike regularly?
+Participant: It's fun and a way to spend time with friends.
+Interviewer: How would you describe your experience in nature — the sounds, sights, and environment?
+Participant: I enjoy the beauty and variety — wildflowers, forests, lakes — and the quiet with wind and birds. I like noticing small details, geology, and patterns in moss or rock layers; my spouse often points out plants and textures.
+Interviewer: How many hikes do you do per year roughly?
+Participant: About 15 to 20 in summer months.
+Interviewer: Thinking about devices: during a recent two-hour hike you used your phone four times. How does smartphone use affect your hiking experience?
+Participant: Mostly I used it to check the time because I was watching our schedule. Generally my phone is for the camera, checking time, occasional calls or texts, and sometimes weather. I don't use many apps while hiking.
+Interviewer: Is carrying a smartphone a constant practice?
+Participant: Yes — my phone is the only device I usually carry. I take photos, selfies, and occasionally respond to messages. If I'm worried about weather or time, I'll check apps.
+Interviewer: Do you hike alone or with others?
+Participant: Almost always with someone else.
+Interviewer: How would hiking alone change your device use and experience?
+Participant: Alone I'd likely do shorter hikes, let someone know my plan, and might listen to a podcast or music with earphones. I'd be more likely to use audio content but still be cautious about longer, solo routes.
+Interviewer: Have you encountered areas without network coverage?
+Participant: Frequently. I don't notice much because my common uses — photos and time checks — don't need data. I only pay attention if I'm expecting a call or text.
+Interviewer: Which trails do you prefer and why?
+Participant: I like trails with varied scenery and good payoff: Silver Glance Lake for diversity, Mount Benovis for the summit feeling, and Stuart Falls as a short trail with a big waterfall that's good for less-experienced companions. I've summited Mount Timpanogos about three times after several attempts.
+Interviewer: What level of hike do you prefer?
+Participant: Around eight miles is a typical, satisfying hike. Above ten miles starts to feel really hard for me.
+Interviewer: How do you manage safety while hiking?
+Participant: I avoid risky stunts, use hiking poles for stability, carry plenty of water, and stick to prepared trails. I also let people know my plans when solo.
+Interviewer: What devices would you recommend as essential for hikers?
+Participant: A smartphone for GPS and photos; at least one person with a map app like AllTrails. A phone can get you back on track if you stray off trail.
+Interviewer: In emergencies, how would you reach help?
+Participant: Many phones now have satellite emergency features; I've known friends who used that. The other key step is making sure someone knows where you are.
+Interviewer: How did the study's recording device affect your behavior on the hike?
+Participant: It made me more aware of phone use — I hesitated more and asked whether I really needed to check my device — but it didn't drastically change behavior.
+Interviewer: Did you use the guide app provided for navigation on this hike?
+Participant: No — aside from starting and stopping it, we didn't use the guide app on this outing.
+Interviewer: That covers our questions; we'll send the study gift card by email. Anything else you'd like to add?
+Participant: No, that sounds good — thanks.
+
+Interviewer: [VERBATIM TRANSCRIPT]
+Participant: All right.
+Interviewer: Our research is focused on technology use while hiking — what devices people use and what apps they use. We ran a similar survey in 2017 where almost 98% hiked with a smartphone and about 95% with headphones. Fast forward to 2024, we want to see differences. Can you tell me a bit about your hiking experience and how you got started?
+Participant: When I was younger my family went hiking a lot — not long hikes — but my parents and grandpa did a lot. In college a group of friends started going on hikes every weekend in summer and I tagged along; that's how I met my spouse. Living in Provo with so many good hikes makes it a shame not to take advantage.
+Interviewer: What benefits have you gained from hiking?
+Participant: It's a major way I get outside and exercise; I don't do many sports, so hiking helps me stay healthy. It's also good for mental health and it's fun.
+Interviewer: How has being in nature helped your mental well-being?
+Participant: It calms me and kind of resets me. We get caught up in everyday life and it's nice to realize there's a whole world outside of me.
+Interviewer: You mentioned exercise — how long do your hikes usually last?
+Participant: Typically between four and eight hours. I try to go every weekend but maybe 75% of the time I'm able to. In winter that drops off a lot.
+Interviewer: How often do you hike in winter?
+Participant: Basically never — maybe one or two hikes in winter.
+Interviewer: How do you handle snow and cold?
+Participant: We bundle up, use good jackets, stick to established trails that others have packed down, and use crampon-style traction wraps for shoes.
+Interviewer: How do you track distance and where you've gone?
+Participant: I don't track it myself — my spouse starts a Strava activity that tracks distance and time.
+Interviewer: How do you prepare for hikes?
+Participant: Usually a day or more ahead we check driving time, road conditions, whether a car can handle a dirt road, the hike length and steepness, and the weather to decide water and whether to bring lunch. We keep gear like sunscreen and bug spray packed in our hiking bags.
+Interviewer: Apart from mental recovery, why hike every weekend in summer?
+Participant: I just think it's fun and a way to spend time with friends.
+Interviewer: How do you describe your time in nature — sounds and environment?
+Participant: Nature is really beautiful. I like looking at natural formations and small things — my spouse works with materials for animation and points out patterns in moss; I notice rock strata and wonder about geology. It's typically quiet but you can hear wind and birds.
+Interviewer: How many hikes do you do in a year?
+Participant: In summer months, about four hikes per month — so roughly 15 to 20 hikes a year.
+Interviewer: When preparing, how do you prepare for wildlife or unfamiliar environment?
+Participant: I've lived here all my life and know local wildlife. I keep in mind which animals to watch for, like rattlesnakes or mountain lions. For less threatening species, we might take pictures and later identify them — my mom sometimes knows what a lizard or plant is.
+Interviewer: On a recent trail you spent about two hours and used your phone four times. How did smartphone use affect your experience?
+Participant: Mostly I used it to check the time because I was worried about getting back to do errands and school. Generally my phone is for photos, checking time, responding to calls or texts, and sometimes checking weather. I don't use many other apps while hiking.
+Interviewer: Is carrying a smartphone a constant practice?
+Participant: Yes — my phone is the only thing I carry usually. I've used it for pictures and selfies. Occasionally I'll check a weather app or answer a call or text.
+Interviewer: Do you hike alone often?
+Participant: I'm pretty much always with somebody else.
+Interviewer: What times do you usually hike?
+Participant: Hikes are often around eight hours in length; we usually start early, around six or seven and get back around one or two. Early starts help with temperature in summer.
+Interviewer: How would hiking alone change your experience and technology use?
+Participant: When alone I did a hike last summer and listened to a podcast. I'd do shorter hikes alone, let someone know where I'm going, and be more cautious. Hiking with others improves the experience because you can talk and point out cool things.
+Interviewer: If hiking alone, what devices and apps would you use?
+Participant: I'd tell someone where I'm going, and on the trail I'd likely have a podcast app, maybe music, and earphones. I wouldn't necessarily have an active tracker running.
+Interviewer: Have you been in places without network?
+Participant: Yeah, that happens often. I don't notice much because my usual phone uses don't need network. I only notice when I'm expecting a call or text and waiting to get data.
+Interviewer: Are there specific locations you always hike and why?
+Participant: I like a few local trails: Silver Glance Lake for diversity of environments, Mount Benovis for the summit feeling, and Stuart Falls for a short hike with a big waterfall that's good for less experienced people.
+Interviewer: Tell me about hiking Mount Timpanogos and your preferred hike level.
+Participant: The first time I tried Timpanogos with a youth group we weren't well prepared and turned back before the saddle. I tried again with my mom and got closer but turned back on a steep, exposed section because our legs were too tired. After my mission I summited with friends; I've summited three times with a few earlier attempts. Preferred hikes are around eight miles; over ten miles starts to be hard.
+Interviewer: How safe are you while hiking?
+Participant: I'm generally safe — not an adrenaline junkie — I avoid unnecessary risks, use hiking poles, carry enough water, and avoid technical climbs.
+Interviewer: What are A-level devices for hikers?
+Participant: A smartphone is essential for GPS and photos. At least one person should have a trail map app like AllTrails for navigation; GPS helps if you get off-trail.
+Interviewer: How would you reach help in an emergency?
+Participant: Many phones have satellite emergency call features — friends once used that after getting stuck. Also, letting someone know your location before you go is critical.
+Interviewer: Do you personally use safety measures before hiking?
+Participant: When I'm alone I tell someone where I'll be. I usually have my phone to make emergency calls if needed.
+Interviewer: How did the recording device used in this study affect your hike?
+Participant: It made me more aware of my phone usage; I hesitated more before checking my phone because of the recorder, and the extra step to admit usage felt awkward. It may have made me slightly more conscious but didn't majorly change behavior.
+Interviewer: Did the guide app affect navigation or usage?
+Participant: Besides starting and stopping it, we didn't use the guide app on this hike.
+Interviewer: Thank you — we'll send the gift card by email.
+Participant: Sounds great, thanks.

@@ -1,0 +1,93 @@
+{
+  "transcription": {
+    "transcript": "Interviewer: Hi, I am Alex. Thanks for taking the time to talk about your hiking routines.\n\nParticipant: I usually head out before sunrise, carry a lightweight pack, and take notes about trail conditions for my research team.\n\nParticipant: Last weekend I compared the ridge route with the valley trail and noticed more bird activity down low.",
+    "audio_format": "wav",
+    "raw_transcript": "Hi, I am Alex. Thanks for taking the time to talk about your hiking routines. I usually head out before sunrise, carry a lightweight pack, and take notes about trail conditions for my research team. Last weekend I compared the ridge route with the valley trail and noticed more bird activity down low."
+  },
+  "summary": {
+    "short_summary": "The participant typically hikes before sunrise, carrying a lightweight pack and documenting trail conditions for their research team. Recently, they compared two trails and observed increased bird activity in the valley. Their routine combines physical activity with scientific observation.",
+    "long_summary": "The participant shared their hiking routine, which involves starting early before sunrise and carrying a lightweight pack to facilitate mobility. They take detailed notes on trail conditions to support their research team, indicating a blend of recreational hiking and scientific data collection. In a recent outing, they compared the ridge route with the valley trail and observed a higher level of bird activity in the valley area, highlighting their attentiveness to environmental variations during their hikes."
+  },
+  "themes": {
+    "themes": [
+      {
+        "name": "Early Morning Hiking",
+        "description": "Participant prefers to hike before sunrise, indicating a routine of early morning hikes.",
+        "frequency": "high",
+        "representative_quotes": [
+          "I usually head out before sunrise"
+        ]
+      },
+      {
+        "name": "Lightweight Packing",
+        "description": "Participant emphasizes carrying a lightweight pack during hikes.",
+        "frequency": "medium",
+        "representative_quotes": [
+          "carry a lightweight pack"
+        ]
+      },
+      {
+        "name": "Research and Note-Taking",
+        "description": "Participant takes notes about trail conditions for a research team, showing a scientific or observational approach to hiking.",
+        "frequency": "medium",
+        "representative_quotes": [
+          "take notes about trail conditions for my research team"
+        ]
+      },
+      {
+        "name": "Comparative Trail Observation",
+        "description": "Participant compares different trails and observes wildlife activity, such as bird presence.",
+        "frequency": "low",
+        "representative_quotes": [
+          "Last weekend I compared the ridge route with the valley trail and noticed more bird activity down low"
+        ]
+      }
+    ]
+  },
+  "quotes": {
+    "highlights": [
+      {
+        "quote": "I usually head out before sunrise, carry a lightweight pack, and take notes about trail conditions for my research team.",
+        "category": "behavioral",
+        "rationale": "This quote clearly describes the participant's hiking routine and their purposeful behavior related to their research work.",
+        "suggested_use": "Use this quote to illustrate typical fieldwork practices and the integration of research tasks into personal routines."
+      },
+      {
+        "quote": "Last weekend I compared the ridge route with the valley trail and noticed more bird activity down low.",
+        "category": "memorable",
+        "rationale": "This quote stands out as it captures a specific observational insight that links the participant's hiking experience with scientific observation.",
+        "suggested_use": "Highlight this quote to emphasize the observational skills and curiosity that drive the participant's research."
+      }
+    ]
+  },
+  "follow_ups": {
+    "clarifying": [
+      "When you say you take notes about trail conditions, could you specify what kinds of conditions you focus on?",
+      "You mentioned carrying a lightweight pack\u2014what essential items do you always include in it?"
+    ],
+    "probing": [
+      "What motivates you to start your hikes before sunrise rather than later in the day?",
+      "Can you elaborate on how the bird activity you observed influences your choice of hiking routes or research?"
+    ],
+    "contrast": [
+      "How does the ridge route compare to the valley trail in terms of difficulty or scenery besides bird activity?",
+      "Have you noticed any differences in trail conditions between the ridge and valley routes that affect your research notes?"
+    ]
+  },
+  "rag_context": null,
+  "metadata": {
+    "participant": "Alex",
+    "cohort": "PilotStudy"
+  },
+  "quality_review": {
+    "status": "pass",
+    "severity": "none",
+    "issues": [],
+    "recommendations": [
+      "No factual inconsistencies or JSON compliance issues detected.",
+      "The analysis is clear and well-structured with appropriate sections and relevant follow-up questions.",
+      "Consider adding a quality_review section in future iterations to document any reviewer notes or validation steps."
+    ]
+  },
+  "correction": null
+}
